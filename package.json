@@ -1,0 +1,16 @@
+{
+  "name": "hireatechie",
+  "version": "0.1.0",
+  "description": "Hiring job board",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "build:static": "next build && next out"
+  },
+  "dependencies": {
+    "next": "^10.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
